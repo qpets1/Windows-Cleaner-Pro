@@ -1,0 +1,5 @@
+{
+  "name": "Windows Cleaner Pro",
+  "description": "A web-based simulation of a professional utility for cleaning, optimizing, and maintaining a Windows operating system. It provides a visual representation of scanning for junk files, optimizing system performance, and managing system tools.",
+  "requestFramePermissions": []
+}
